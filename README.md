@@ -1,7 +1,7 @@
 # Hi 👋, I'm Praveen Sharma 
 
 ## 🚀 About Me
-I am a passionate developer and technology enthusiast pursuing a Btech in Information Technology from Rajkiya Engineering College, Azamgarh. I also hold a Diploma in Electronics Engineering from IERT Prayagraj. I have a strong interest in Full Stack Development in MERN, Decentralized Finance (DeFi), Graph Neural Networks (GNNs), Machine Learning & AI, Fraud Detection Systems, and Blockchain Technology. I enjoy building innovative projects that combine AI, blockchain, and cybersecurity to solve real-world problems.
+I am a passionate developer and technology enthusiast completed a Btech in Information Technology from Rajkiya Engineering College, Azamgarh. I also hold a Diploma in Electronics Engineering from IERT Prayagraj. I have a strong interest in Full Stack Development in MERN, Decentralized Finance (DeFi), Graph Neural Networks (GNNs), Machine Learning & AI, Fraud Detection Systems, and Blockchain Technology. I enjoy building innovative projects that combine AI, blockchain, and cybersecurity to solve real-world problems.
 
 ---
 
